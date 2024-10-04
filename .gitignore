@@ -1,0 +1,11 @@
+# IDE
+.idea
+
+# Composer
+/vendor
+
+# Nette
+/config/local.neon
+
+# Docker
+/.data

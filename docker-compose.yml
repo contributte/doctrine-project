@@ -1,0 +1,13 @@
+services:
+  postgres:
+    image: postgres:17-bookworm
+    restart: always
+    environment:
+      POSTGRES_DB: contributte
+      POSTGRES_USER: contributte
+      POSTGRES_PASSWORD: contributte
+    ports:
+      - 5432:5432
+    volumes:
+      - ./.data/postgres:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro
