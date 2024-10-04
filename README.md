@@ -2,7 +2,6 @@
 
 <p align=center>
   <a href="https://github.com/contributte/doctrine-project/actions"><img src="https://badgen.net/github/checks/contributte/doctrine-project/master"></a>
-  <a href="https://coveralls.io/r/contributte/doctrine-project"><img src="https://badgen.net/coveralls/c/github/contributte/doctrine-project"></a>
   <a href="https://packagist.org/packages/contributte/doctrine-project"><img src="https://badgen.net/packagist/dm/contributte/doctrine-project"></a>
   <a href="https://packagist.org/packages/contributte/doctrine-project"><img src="https://badgen.net/packagist/v/contributte/doctrine-project"></a>
 </p>
