@@ -23,7 +23,7 @@
     "nette/http": "^3.3.0",
     "nette/utils": "^4.0.4",
     "latte/latte": "^3.0.16",
-    "tracy/tracy": "^2.10.7",
+    "tracy/tracy": "^2.11.2",
 
     "contributte/console": "^0.11.0",
     "contributte/event-dispatcher": "^0.9.1",
