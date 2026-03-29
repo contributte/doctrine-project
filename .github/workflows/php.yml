@@ -10,10 +10,10 @@ on:
     - cron: "0 8 * * 1"
 
 jobs:
-  php:
-    name: "PHP check"
-    uses: contributte/.github/.github/workflows/php.yml@v1
+  build:
+    name: "Build"
+    uses: dockette/.github/.github/workflows/php.yml@v1
     with:
-      name: "PHP check"
+      name: "Build"
       php: "8.4"
       run: "composer validate"
