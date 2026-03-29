@@ -30,7 +30,7 @@
 
     "nettrine/dbal": "^0.10.3",
     "nettrine/orm": "^0.10.1",
-    "symfony/var-exporter": "^7.0"
+    "symfony/var-exporter": "^8.0"
   },
   "require-dev": {
     "contributte/tester": "^0.4.1",
